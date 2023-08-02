@@ -1,0 +1,18 @@
+.App {
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+} 
+
+.bg1 {
+    background-image: url('/public/fortune/img1.jpg');
+}
+.bg2 {
+    background-image: url('/public/fortune/img2.jpg');
+}
+.bg3 {
+    background-image: url('/public/fortune/img3.jpg');
+}
+.bg4 {
+    background-image: url('/public/fortune/img4.jpg');
+}
